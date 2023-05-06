@@ -55,10 +55,10 @@ Cell[BoxData[GridBox[{
             ImageSize->20,
             PlotRange->{{-3, 4}, {-1, 1}}]]]
          }]],
-         StripOnInput->False], {"PacletizedResourceFunctions1":>
+         StripOnInput->False], {"AntonAntonov/DataReshapers":>
         Documentation`HelpLookup[
-        "paclet:PacletizedResourceFunctions1/ReferencePages/Guides/\
-PacletizedResourceFunctions1"]},
+        "paclet:AntonAntonov/DataReshapers/ReferencePages/Guides/\
+Datareshapingfunctions"]},
         Appearance->None,
         MenuAppearance->Automatic,
         MenuStyle->"GuideFunction"],
@@ -81,11 +81,11 @@ PacletizedResourceFunctions1"]},
             PlotRange->{{-3, 4}, {-1, 1}}]]]
          }]],
          StripOnInput->
-          False], {"\<\"paclet:PacletizedResourceFunctions1/ReferencePages/\
+          False], {"\<\"paclet:AntonAntonov/DataReshapers/ReferencePages/\
 Symbols/LongFormDataset\"\>":>
         None, "\<\"Copy Wolfram Documentation Center URL\"\>":>
         CopyToClipboard[
-        "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+        "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 LongFormDataset"], Delimiter, "\<\"Copy web URL\"\>":>CopyToClipboard[
         "https://resources.wolframcloud.com/FunctionRepository/resources/\
 LongFormDataset"], "\<\"Go to web URL\"\>":>NotebookLocate[{
@@ -180,7 +180,7 @@ Cell[BoxData[
          "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
          "Link"}]],
       ButtonData->
-       "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+       "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 LongFormDataset",
       ContentPadding->False],
      MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -218,7 +218,7 @@ Cell[BoxData[
          "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
          "Link"}]],
       ButtonData->
-       "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+       "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 LongFormDataset",
       ContentPadding->False],
      MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -267,7 +267,7 @@ Cell[BoxData[
          "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
          "Link"}]],
       ButtonData->
-       "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+       "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 LongFormDataset",
       ContentPadding->False],
      MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -360,7 +360,7 @@ Cell[TextData[{
         "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
         "Link"}]],
      ButtonData->
-      "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+      "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 LongFormDataset",
      ContentPadding->False],
     MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -390,7 +390,7 @@ Cell[TextData[{
         "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
         "Link"}]],
      ButtonData->
-      "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+      "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 LongFormDataset",
      ContentPadding->False],
     MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -412,7 +412,7 @@ Cell[TextData[{
         "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
         "Link"}]],
      ButtonData->
-      "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+      "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 LongFormDataset",
      ContentPadding->False],
     MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -29398,10 +29398,10 @@ TaggingRules->{
   "Metadata" -> {
    "title" -> "LongFormDataset", "description" -> "", "label" -> 
     "Pacletized ResourceFunction", "context" -> 
-    "PacletizedResourceFunctions1`", "index" -> True, "language" -> "en", 
-    "paclet" -> "PacletizedResourceFunctions1", "type" -> "Symbol", 
+    "AntonAntonov/DataReshapers`", "index" -> True, "language" -> "en",
+    "paclet" -> "AntonAntonov/DataReshapers", "type" -> "Symbol",
     "windowtitle" -> "LongFormDataset", "uri" -> 
-    "PacletizedResourceFunctions1/ReferencePages/Symbols/LongFormDataset", 
+    "AntonAntonov/DataReshapers/ReferencePages/Symbols/LongFormDataset",
     "summary" -> "Converts tabular data into a long-form dataset", 
     "keywords" -> {}}, 
   "Openers" -> {

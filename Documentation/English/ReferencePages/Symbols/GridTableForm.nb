@@ -55,10 +55,10 @@ Cell[BoxData[GridBox[{
             ImageSize->20,
             PlotRange->{{-3, 4}, {-1, 1}}]]]
          }]],
-         StripOnInput->False], {"PacletizedResourceFunctions1":>
+         StripOnInput->False], {"AntonAntonov/DataReshapers":>
         Documentation`HelpLookup[
-        "paclet:PacletizedResourceFunctions1/ReferencePages/Guides/\
-PacletizedResourceFunctions1"]},
+        "paclet:AntonAntonov/DataReshapers/ReferencePages/Guides/\
+Datareshapingfunctions"]},
         Appearance->None,
         MenuAppearance->Automatic,
         MenuStyle->"GuideFunction"],
@@ -81,11 +81,11 @@ PacletizedResourceFunctions1"]},
             PlotRange->{{-3, 4}, {-1, 1}}]]]
          }]],
          StripOnInput->
-          False], {"\<\"paclet:PacletizedResourceFunctions1/ReferencePages/\
+          False], {"\<\"paclet:AntonAntonov/DataReshapers/ReferencePages/\
 Symbols/GridTableForm\"\>":>
         None, "\<\"Copy Wolfram Documentation Center URL\"\>":>
         CopyToClipboard[
-        "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+        "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 GridTableForm"], Delimiter, "\<\"Copy web URL\"\>":>CopyToClipboard[
         "https://resources.wolframcloud.com/FunctionRepository/resources/\
 8b78d59f-21a1-4221-bb06-2887d1571d94/"], "\<\"Go to web URL\"\>":>
@@ -184,7 +184,7 @@ Cell[BoxData[
          "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
          "Link"}]],
       ButtonData->
-       "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+       "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 GridTableForm",
       ContentPadding->False],
      MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -246,7 +246,7 @@ Cell[TextData[{
         "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
         "Link"}]],
      ButtonData->
-      "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+      "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 GridTableForm",
      ContentPadding->False],
     MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -313,7 +313,7 @@ Cell[TextData[{
         "Link", FontColor -> RGBColor[0.854902, 0.396078, 0.145098]}, {
         "Link"}]],
      ButtonData->
-      "paclet:PacletizedResourceFunctions1/ReferencePages/Symbols/\
+      "paclet:AntonAntonov/DataReshapers/ReferencePages/Symbols/\
 GridTableForm",
      ContentPadding->False],
     MouseAppearanceTag["LinkHand"]]], "Text", "InlineFormula",
@@ -7579,10 +7579,10 @@ TaggingRules->{
   "Metadata" -> {
    "title" -> "GridTableForm", "description" -> "", "label" -> 
     "Pacletized ResourceFunction", "context" -> 
-    "PacletizedResourceFunctions1`", "index" -> True, "language" -> "en", 
-    "paclet" -> "PacletizedResourceFunctions1", "type" -> "Symbol", 
+    "AntonAntonov/DataReshapers`", "index" -> True, "language" -> "en",
+    "paclet" -> "AntonAntonov/DataReshapers", "type" -> "Symbol",
     "windowtitle" -> "GridTableForm", "uri" -> 
-    "PacletizedResourceFunctions1/ReferencePages/Symbols/GridTableForm", 
+    "AntonAntonov/DataReshapers/ReferencePages/Symbols/GridTableForm",
     "summary" -> 
     "Arrange the elements of the argument in a two-dimensional grid with row \
 coloring that helps comprehension", "keywords" -> {}, "WorkflowDockedCell" -> 
