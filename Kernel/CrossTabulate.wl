@@ -319,20 +319,19 @@ FromRXTabsForm[rres_RLink`RObject] :=
 
 Unprotect[Association];
 
-MatrixForm[x_Association /; (KeyExistsQ[x, "SparseMatrix"] || KeyExistsQ[x, "XTABTensor"]), opts___] ^:=
-    (MatrixForm[#1, Append[{opts}, TableHeadings -> Rest[{##}]]] & @@ x);
+System`MatrixForm[x_Association /; (KeyExistsQ[x, "SparseMatrix"] || KeyExistsQ[x, "XTABTensor"]), opts___] ^:=
+    (System`MatrixForm[#1, Append[{opts}, TableHeadings -> Rest[{##}]]] & @@ x);
 
-MatrixPlot[
-  x_Association /; (KeyExistsQ[x, "SparseMatrix"] || KeyExistsQ[x, "XTABTensor"]), opts___] ^:=
-    (MatrixPlot[#1,
+System`MatrixPlot[x_Association /; (KeyExistsQ[x, "SparseMatrix"] || KeyExistsQ[x, "XTABTensor"]), opts___] ^:=
+    (System`MatrixPlot[#1,
       Append[{opts}, FrameLabel -> {{Keys[x][[2]], None}, {Keys[x][[3]], None}}]] & @@ x);
 
 
-Transpose[x_Association /; (KeyExistsQ[x, "SparseMatrix"] || KeyExistsQ[x, "XTABTensor"]), args___] ^:=
+System`Transpose[x_Association /; (KeyExistsQ[x, "SparseMatrix"] || KeyExistsQ[x, "XTABTensor"]), args___] ^:=
     Block[{assoc = x},
       If[ KeyExistsQ[x, "SparseMatrix"],
-        assoc["SparseMatrix"] = Transpose[x["SparseMatrix"], args],
-        assoc["XTABTensor"] = Transpose[x["XTABTensor"], args]
+        assoc["SparseMatrix"] = System`Transpose[x["SparseMatrix"], args],
+        assoc["XTABTensor"] = System`Transpose[x["XTABTensor"], args]
       ];
       assoc["ColumnNames"] = x["RowNames"];
       assoc["RowNames"] = x["ColumnNames"];
