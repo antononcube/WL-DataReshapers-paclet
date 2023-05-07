@@ -4613,7 +4613,43 @@ tables-creation-examples/"]], "Item",
    PassEventsDown -> False, PassEventsUp -> False},
  CellChangeTimes->{3.8923834568307447`*^9},
  CellTags->{"DefaultContent", "TabNext"},
- CellID->702019342,ExpressionUUID->"5e0207bf-1e53-4901-962a-0f0b6b7667df"]
+ CellID->702019342,ExpressionUUID->"5e0207bf-1e53-4901-962a-0f0b6b7667df"],
+
+Cell[TextData[{
+ ButtonBox["\"Data Transformation Workflows with Anton Antonov, Session #1\"",
+  
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.youtube.com/watch?v=iXrXMQdXOsM"], None},
+  ButtonNote->"https://www.youtube.com/watch?v=iXrXMQdXOsM"],
+ ", (2020), Wolfram channel at YouTube."
+}], "Item",
+ CellChangeTimes->{{3.8924095133694687`*^9, 3.892409595406925*^9}},
+ CellID->35193374,ExpressionUUID->"9fa474f7-aba3-47ee-8033-bffb88d55706"],
+
+Cell[TextData[{
+ ButtonBox["\"Data Transformation Workflows with Anton Antonov, Session #2\"",
+  
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.youtube.com/watch?v=DWGgFsaEOsU"], None},
+  ButtonNote->"https://www.youtube.com/watch?v=DWGgFsaEOsU"],
+ ", (2020), Wolfram channel at YouTube."
+}], "Item",
+ CellChangeTimes->{{3.892409653321415*^9, 3.892409678267868*^9}},
+ CellID->1487743613,ExpressionUUID->"ac829176-da68-4bc8-afe5-0df1442b9306"],
+
+Cell[TextData[{
+ ButtonBox["\"Multi-language Data-Wrangling Conversational Agent\"",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.youtube.com/watch?v=pQk5jwoMSxs"], None},
+  ButtonNote->"https://www.youtube.com/watch?v=pQk5jwoMSxs"],
+ ", (2021), Wolfram Technology Conference 2020 presentation, Wolfram channel \
+at YouTube."
+}], "Item",
+ CellChangeTimes->{{3.892409689884857*^9, 3.892409755023357*^9}},
+ CellID->788812108,ExpressionUUID->"2898e108-8bcb-446d-a624-1f36304ef70d"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -5624,8 +5660,8 @@ contexts.", "MoreInfoText"], Background -> GrayLevel[0.95], FrameMargins ->
                    20, FrameStyle -> GrayLevel[0.9], RoundingRadius -> 5, 
                    ImageSize -> {
                     Scaled[0.65], Automatic}]], "MoreInfoText", Deletable -> 
-                 True, 
-                 CellTags -> {"SectionMoreInfoDisclosuresWLSystemSymbols"}, 
+                 True, CellTags -> {
+                  "SectionMoreInfoDisclosuresWLSystemSymbols"}, 
                  CellMargins -> {{66, 66}, {15, 15}}], 
                 HoldComplete[
                  EvaluationCell[]], "Click for more information"}, 
