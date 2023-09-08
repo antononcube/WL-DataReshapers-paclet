@@ -7,7 +7,7 @@ PacletObject[
     "Creator" -> "Anton Antonov",
     "License" -> "MIT",
     "PublisherID" -> "AntonAntonov",
-    "Version" -> "1.0.4",
+    "Version" -> "1.0.5",
     "WolframVersion" -> "12.0+",
     "Extensions" -> {
       {
@@ -19,6 +19,7 @@ PacletObject[
           "AntonAntonov`DataReshapers`CrossTabulationMatrixQ",
           "AntonAntonov`DataReshapers`CrossTensorate",
           "AntonAntonov`DataReshapers`CrossTensorateSplit",
+          "AntonAntonov`DataReshapers`DatasetToMatrix",
           "AntonAntonov`DataReshapers`GridTableForm",
           "AntonAntonov`DataReshapers`LongFormDataset",
           "AntonAntonov`DataReshapers`PivotLonger",
@@ -26,6 +27,7 @@ PacletObject[
           "AntonAntonov`DataReshapers`RecordsToLongFormDataset",
           "AntonAntonov`DataReshapers`RecordsToWideFormDataset",
           "AntonAntonov`DataReshapers`SeparateColumn",
+          "AntonAntonov`DataReshapers`ToAutomaticKeysAssociation",
           "AntonAntonov`DataReshapers`TypeOfDataToBeReshaped",
           "AntonAntonov`DataReshapers`WideFormDataset"
         }

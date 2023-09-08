@@ -50,13 +50,19 @@ full two dimensional arrays. (I.e. lists of records.)";
 
 GridTableForm::usage="GridTableForm[arg] arranges the elements of arg in a two-dimensional grid.";
 
+ToAutomaticKeysAssociation::usage = "ToAutomaticKeysAssociation[ls_List, prefix_String] makes an association with \
+automatically derived keys.";
+
+DatasetToMatrix::usage = "Converts a dataset into a matrix according to option specified expected column names.
+Amenable to be used in monad implementations. (Uses Echo instead of Message; uses option specified failure symbol).";
+
 Begin["`Private`"];
 
 Needs["AntonAntonov`DataReshapers`CrossTabulate`"];
 Needs["AntonAntonov`DataReshapers`GridTableForm`"];
 Needs["AntonAntonov`DataReshapers`LongAndWideForm`"];
 Needs["AntonAntonov`DataReshapers`RecordsSummary`"];
-
+Needs["AntonAntonov`DataReshapers`DatasetToMatrix`"];
 
 End[];
 EndPackage[];
